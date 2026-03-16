@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{D3DC994B-0B46-45B6-994D-904B3D11121D}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="2-HeapStackRefOutArrayResize/Program.cs">
+    <Files>
+      <File FileName="2-HeapStackRefOutArrayResize/Program.cs" Line="37" Column="2" IsPinned="True" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2-HeapStackRefOutArrayResize" expanded="True">
+            <Node name="2-HeapStackRefOutArrayResize" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.2-HeapStackRefOutArrayResize PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

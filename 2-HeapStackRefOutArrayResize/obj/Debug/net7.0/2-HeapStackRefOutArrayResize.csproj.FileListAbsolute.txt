@@ -1,0 +1,15 @@
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/bin/Debug/net7.0/2-HeapStackRefOutArrayResize
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/bin/Debug/net7.0/2-HeapStackRefOutArrayResize.deps.json
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/bin/Debug/net7.0/2-HeapStackRefOutArrayResize.runtimeconfig.json
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/bin/Debug/net7.0/2-HeapStackRefOutArrayResize.dll
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/bin/Debug/net7.0/2-HeapStackRefOutArrayResize.pdb
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/obj/Debug/net7.0/2-HeapStackRefOutArrayResize.csproj.AssemblyReference.cache
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/obj/Debug/net7.0/2-HeapStackRefOutArrayResize.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/obj/Debug/net7.0/2-HeapStackRefOutArrayResize.AssemblyInfoInputs.cache
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/obj/Debug/net7.0/2-HeapStackRefOutArrayResize.AssemblyInfo.cs
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/obj/Debug/net7.0/2-HeapStackRefOutArrayResize.csproj.CoreCompileInputs.cache
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/obj/Debug/net7.0/2-HeapStackRefOutArrayResize.dll
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/obj/Debug/net7.0/refint/2-HeapStackRefOutArrayResize.dll
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/obj/Debug/net7.0/2-HeapStackRefOutArrayResize.pdb
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/obj/Debug/net7.0/2-HeapStackRefOutArrayResize.genruntimeconfig.cache
+/Users/huseyn/Projects/2-HeapStackRefOutArrayResize/2-HeapStackRefOutArrayResize/obj/Debug/net7.0/ref/2-HeapStackRefOutArrayResize.dll

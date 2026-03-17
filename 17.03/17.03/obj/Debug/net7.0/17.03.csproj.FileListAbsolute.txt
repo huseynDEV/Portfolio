@@ -1,0 +1,15 @@
+/Users/huseyn/Projects/17.03/17.03/bin/Debug/net7.0/17.03
+/Users/huseyn/Projects/17.03/17.03/bin/Debug/net7.0/17.03.deps.json
+/Users/huseyn/Projects/17.03/17.03/bin/Debug/net7.0/17.03.runtimeconfig.json
+/Users/huseyn/Projects/17.03/17.03/bin/Debug/net7.0/17.03.dll
+/Users/huseyn/Projects/17.03/17.03/bin/Debug/net7.0/17.03.pdb
+/Users/huseyn/Projects/17.03/17.03/obj/Debug/net7.0/17.03.csproj.AssemblyReference.cache
+/Users/huseyn/Projects/17.03/17.03/obj/Debug/net7.0/17.03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyn/Projects/17.03/17.03/obj/Debug/net7.0/17.03.AssemblyInfoInputs.cache
+/Users/huseyn/Projects/17.03/17.03/obj/Debug/net7.0/17.03.AssemblyInfo.cs
+/Users/huseyn/Projects/17.03/17.03/obj/Debug/net7.0/17.03.csproj.CoreCompileInputs.cache
+/Users/huseyn/Projects/17.03/17.03/obj/Debug/net7.0/17.03.dll
+/Users/huseyn/Projects/17.03/17.03/obj/Debug/net7.0/refint/17.03.dll
+/Users/huseyn/Projects/17.03/17.03/obj/Debug/net7.0/17.03.pdb
+/Users/huseyn/Projects/17.03/17.03/obj/Debug/net7.0/17.03.genruntimeconfig.cache
+/Users/huseyn/Projects/17.03/17.03/obj/Debug/net7.0/ref/17.03.dll

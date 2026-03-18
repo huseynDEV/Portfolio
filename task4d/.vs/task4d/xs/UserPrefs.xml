@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{74EDD029-4970-475F-B552-719A6EF4C2E4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Domain FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Person.cs">
+    <Files>
+      <File FileName="Student.cs" Line="10" Column="21" />
+      <File FileName="Person.cs" Line="11" Column="6" />
+      <File FileName="Car.cs" Line="9" Column="33" />
+      <File FileName="../Domain/Work.cs" Line="11" Column="33" />
+      <File FileName="../Domain/NDrived.cs" Line="12" Column="33" />
+      <File FileName="Program.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="task4d" expanded="True">
+            <Node name="Domain" expanded="True" />
+            <Node name="task4d">
+              <Node name="Person.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.task4d PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

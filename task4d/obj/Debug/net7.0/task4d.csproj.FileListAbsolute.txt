@@ -1,0 +1,15 @@
+/Users/huseyn/Desktop/Portfolio/task4d/bin/Debug/net7.0/task4d
+/Users/huseyn/Desktop/Portfolio/task4d/bin/Debug/net7.0/task4d.deps.json
+/Users/huseyn/Desktop/Portfolio/task4d/bin/Debug/net7.0/task4d.runtimeconfig.json
+/Users/huseyn/Desktop/Portfolio/task4d/bin/Debug/net7.0/task4d.dll
+/Users/huseyn/Desktop/Portfolio/task4d/bin/Debug/net7.0/task4d.pdb
+/Users/huseyn/Desktop/Portfolio/task4d/obj/Debug/net7.0/task4d.csproj.AssemblyReference.cache
+/Users/huseyn/Desktop/Portfolio/task4d/obj/Debug/net7.0/task4d.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyn/Desktop/Portfolio/task4d/obj/Debug/net7.0/task4d.AssemblyInfoInputs.cache
+/Users/huseyn/Desktop/Portfolio/task4d/obj/Debug/net7.0/task4d.AssemblyInfo.cs
+/Users/huseyn/Desktop/Portfolio/task4d/obj/Debug/net7.0/task4d.csproj.CoreCompileInputs.cache
+/Users/huseyn/Desktop/Portfolio/task4d/obj/Debug/net7.0/task4d.dll
+/Users/huseyn/Desktop/Portfolio/task4d/obj/Debug/net7.0/refint/task4d.dll
+/Users/huseyn/Desktop/Portfolio/task4d/obj/Debug/net7.0/task4d.pdb
+/Users/huseyn/Desktop/Portfolio/task4d/obj/Debug/net7.0/task4d.genruntimeconfig.cache
+/Users/huseyn/Desktop/Portfolio/task4d/obj/Debug/net7.0/ref/task4d.dll

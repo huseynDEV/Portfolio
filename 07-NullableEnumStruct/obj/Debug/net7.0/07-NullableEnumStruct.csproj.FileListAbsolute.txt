@@ -1,0 +1,15 @@
+/Users/huseyn/Projects/07-NullableEnumStruct/bin/Debug/net7.0/07-NullableEnumStruct
+/Users/huseyn/Projects/07-NullableEnumStruct/bin/Debug/net7.0/07-NullableEnumStruct.deps.json
+/Users/huseyn/Projects/07-NullableEnumStruct/bin/Debug/net7.0/07-NullableEnumStruct.runtimeconfig.json
+/Users/huseyn/Projects/07-NullableEnumStruct/bin/Debug/net7.0/07-NullableEnumStruct.dll
+/Users/huseyn/Projects/07-NullableEnumStruct/bin/Debug/net7.0/07-NullableEnumStruct.pdb
+/Users/huseyn/Projects/07-NullableEnumStruct/obj/Debug/net7.0/07-NullableEnumStruct.csproj.AssemblyReference.cache
+/Users/huseyn/Projects/07-NullableEnumStruct/obj/Debug/net7.0/07-NullableEnumStruct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyn/Projects/07-NullableEnumStruct/obj/Debug/net7.0/07-NullableEnumStruct.AssemblyInfoInputs.cache
+/Users/huseyn/Projects/07-NullableEnumStruct/obj/Debug/net7.0/07-NullableEnumStruct.AssemblyInfo.cs
+/Users/huseyn/Projects/07-NullableEnumStruct/obj/Debug/net7.0/07-NullableEnumStruct.csproj.CoreCompileInputs.cache
+/Users/huseyn/Projects/07-NullableEnumStruct/obj/Debug/net7.0/07-NullableEnumStruct.dll
+/Users/huseyn/Projects/07-NullableEnumStruct/obj/Debug/net7.0/refint/07-NullableEnumStruct.dll
+/Users/huseyn/Projects/07-NullableEnumStruct/obj/Debug/net7.0/07-NullableEnumStruct.pdb
+/Users/huseyn/Projects/07-NullableEnumStruct/obj/Debug/net7.0/07-NullableEnumStruct.genruntimeconfig.cache
+/Users/huseyn/Projects/07-NullableEnumStruct/obj/Debug/net7.0/ref/07-NullableEnumStruct.dll

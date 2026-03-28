@@ -1,0 +1,15 @@
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/bin/Debug/net7.0/08-StatiClassExtensionMethodsExceptions
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/bin/Debug/net7.0/08-StatiClassExtensionMethodsExceptions.deps.json
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/bin/Debug/net7.0/08-StatiClassExtensionMethodsExceptions.runtimeconfig.json
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/bin/Debug/net7.0/08-StatiClassExtensionMethodsExceptions.dll
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/bin/Debug/net7.0/08-StatiClassExtensionMethodsExceptions.pdb
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/obj/Debug/net7.0/08-StatiClassExtensionMethodsExceptions.csproj.AssemblyReference.cache
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/obj/Debug/net7.0/08-StatiClassExtensionMethodsExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/obj/Debug/net7.0/08-StatiClassExtensionMethodsExceptions.AssemblyInfoInputs.cache
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/obj/Debug/net7.0/08-StatiClassExtensionMethodsExceptions.AssemblyInfo.cs
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/obj/Debug/net7.0/08-StatiClassExtensionMethodsExceptions.csproj.CoreCompileInputs.cache
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/obj/Debug/net7.0/08-StatiClassExtensionMethodsExceptions.dll
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/obj/Debug/net7.0/refint/08-StatiClassExtensionMethodsExceptions.dll
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/obj/Debug/net7.0/08-StatiClassExtensionMethodsExceptions.pdb
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/obj/Debug/net7.0/08-StatiClassExtensionMethodsExceptions.genruntimeconfig.cache
+/Users/huseyn/Projects/08-StatiClassExtensionMethodsExceptions/obj/Debug/net7.0/ref/08-StatiClassExtensionMethodsExceptions.dll

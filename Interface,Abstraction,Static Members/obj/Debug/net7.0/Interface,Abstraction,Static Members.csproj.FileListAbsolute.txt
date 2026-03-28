@@ -1,0 +1,15 @@
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/bin/Debug/net7.0/Interface,Abstraction,Static Members
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/bin/Debug/net7.0/Interface,Abstraction,Static Members.deps.json
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/bin/Debug/net7.0/Interface,Abstraction,Static Members.runtimeconfig.json
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/bin/Debug/net7.0/Interface,Abstraction,Static Members.dll
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/bin/Debug/net7.0/Interface,Abstraction,Static Members.pdb
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/obj/Debug/net7.0/Interface,Abstraction,Static Members.csproj.AssemblyReference.cache
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/obj/Debug/net7.0/Interface,Abstraction,Static Members.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/obj/Debug/net7.0/Interface,Abstraction,Static Members.AssemblyInfoInputs.cache
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/obj/Debug/net7.0/Interface,Abstraction,Static Members.AssemblyInfo.cs
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/obj/Debug/net7.0/Interface,Abstraction,Static Members.csproj.CoreCompileInputs.cache
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/obj/Debug/net7.0/Interface,Abstraction,Static Members.dll
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/obj/Debug/net7.0/refint/Interface,Abstraction,Static Members.dll
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/obj/Debug/net7.0/Interface,Abstraction,Static Members.pdb
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/obj/Debug/net7.0/Interface,Abstraction,Static Members.genruntimeconfig.cache
+/Users/huseyn/Projects/Interface,Abstraction,Static Members/obj/Debug/net7.0/ref/Interface,Abstraction,Static Members.dll

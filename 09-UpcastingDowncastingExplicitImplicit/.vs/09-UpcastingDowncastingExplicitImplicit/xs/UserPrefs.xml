@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{22999B37-EF20-418B-A0EB-B21B70AA9FD3}|Default">
+  <MonoDevelop.Ide.ItemProperties.09-UpcastingDowncastingExplicitImplicit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="74" Column="1" />
+      <File FileName="Animal.cs" Line="8" Column="30" />
+      <File FileName="Eagle.cs" Line="5" Column="2" />
+      <File FileName="Dog.cs" Line="4" Column="2" />
+      <File FileName="Manat.cs" Line="20" Column="1" />
+      <File FileName="Dollar.cs" Line="14" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="09-UpcastingDowncastingExplicitImplicit" expanded="True">
+            <Node name="09-UpcastingDowncastingExplicitImplicit" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

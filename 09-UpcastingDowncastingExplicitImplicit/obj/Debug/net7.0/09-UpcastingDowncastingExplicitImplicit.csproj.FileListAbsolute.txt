@@ -1,0 +1,15 @@
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/obj/Debug/net7.0/09-UpcastingDowncastingExplicitImplicit.csproj.AssemblyReference.cache
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/obj/Debug/net7.0/09-UpcastingDowncastingExplicitImplicit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/obj/Debug/net7.0/09-UpcastingDowncastingExplicitImplicit.AssemblyInfoInputs.cache
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/obj/Debug/net7.0/09-UpcastingDowncastingExplicitImplicit.AssemblyInfo.cs
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/obj/Debug/net7.0/09-UpcastingDowncastingExplicitImplicit.csproj.CoreCompileInputs.cache
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/bin/Debug/net7.0/09-UpcastingDowncastingExplicitImplicit
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/bin/Debug/net7.0/09-UpcastingDowncastingExplicitImplicit.deps.json
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/bin/Debug/net7.0/09-UpcastingDowncastingExplicitImplicit.runtimeconfig.json
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/bin/Debug/net7.0/09-UpcastingDowncastingExplicitImplicit.dll
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/bin/Debug/net7.0/09-UpcastingDowncastingExplicitImplicit.pdb
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/obj/Debug/net7.0/09-UpcastingDowncastingExplicitImplicit.dll
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/obj/Debug/net7.0/refint/09-UpcastingDowncastingExplicitImplicit.dll
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/obj/Debug/net7.0/09-UpcastingDowncastingExplicitImplicit.pdb
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/obj/Debug/net7.0/09-UpcastingDowncastingExplicitImplicit.genruntimeconfig.cache
+/Users/huseyn/Projects/09-UpcastingDowncastingExplicitImplicit/obj/Debug/net7.0/ref/09-UpcastingDowncastingExplicitImplicit.dll

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3D7314E9-F968-4CF7-8205-39ECAEBCE570}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.10-GenericTypesCollections PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Book.cs" Line="23" Column="34" />
+      <File FileName="BookManager.cs" Line="16" Column="29" />
+      <File FileName="Library.cs" Line="45" Column="6" />
+      <File FileName="Members.cs" Line="59" Column="6" />
+      <File FileName="Program.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="10-GenericTypesCollections" expanded="True">
+            <Node name="10-GenericTypesCollections">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

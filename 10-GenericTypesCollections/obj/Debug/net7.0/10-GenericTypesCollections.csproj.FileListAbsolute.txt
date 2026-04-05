@@ -1,0 +1,15 @@
+/Users/huseyn/Projects/10-GenericTypesCollections/bin/Debug/net7.0/10-GenericTypesCollections
+/Users/huseyn/Projects/10-GenericTypesCollections/bin/Debug/net7.0/10-GenericTypesCollections.deps.json
+/Users/huseyn/Projects/10-GenericTypesCollections/bin/Debug/net7.0/10-GenericTypesCollections.runtimeconfig.json
+/Users/huseyn/Projects/10-GenericTypesCollections/bin/Debug/net7.0/10-GenericTypesCollections.dll
+/Users/huseyn/Projects/10-GenericTypesCollections/bin/Debug/net7.0/10-GenericTypesCollections.pdb
+/Users/huseyn/Projects/10-GenericTypesCollections/obj/Debug/net7.0/10-GenericTypesCollections.csproj.AssemblyReference.cache
+/Users/huseyn/Projects/10-GenericTypesCollections/obj/Debug/net7.0/10-GenericTypesCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyn/Projects/10-GenericTypesCollections/obj/Debug/net7.0/10-GenericTypesCollections.AssemblyInfoInputs.cache
+/Users/huseyn/Projects/10-GenericTypesCollections/obj/Debug/net7.0/10-GenericTypesCollections.AssemblyInfo.cs
+/Users/huseyn/Projects/10-GenericTypesCollections/obj/Debug/net7.0/10-GenericTypesCollections.csproj.CoreCompileInputs.cache
+/Users/huseyn/Projects/10-GenericTypesCollections/obj/Debug/net7.0/10-GenericTypesCollections.dll
+/Users/huseyn/Projects/10-GenericTypesCollections/obj/Debug/net7.0/refint/10-GenericTypesCollections.dll
+/Users/huseyn/Projects/10-GenericTypesCollections/obj/Debug/net7.0/10-GenericTypesCollections.pdb
+/Users/huseyn/Projects/10-GenericTypesCollections/obj/Debug/net7.0/10-GenericTypesCollections.genruntimeconfig.cache
+/Users/huseyn/Projects/10-GenericTypesCollections/obj/Debug/net7.0/ref/10-GenericTypesCollections.dll

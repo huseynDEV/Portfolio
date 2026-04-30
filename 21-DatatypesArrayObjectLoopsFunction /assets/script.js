@@ -1,4 +1,4 @@
-1
+
 function tekrarlariSil(massiv){
     let yeniMassiv=[];
     let silinenlerinSayi=0;
@@ -20,6 +20,7 @@ function tekrarlariSil(massiv){
         }
 
     }
+
     console.log('temizlenmis siyahi :', yeniMassiv);
     console.log('silinen reqemlerin sayi:',silinenlerinSayi);
 
@@ -27,7 +28,9 @@ function tekrarlariSil(massiv){
 let testMassiv=[10,20,10,30,40,20,50,10]
 tekrarlariSil(testMassiv)
 
-2
+
+
+
 function polindromYoxla(soz){
     let tersSoz='';
 
@@ -49,7 +52,7 @@ let test1='salam';
 polindromYoxla(test);
 polindromYoxla(test1);
 
-3
+
 function kicikSay(daxilEdilenEded,massiv) {
     let saygac=0;
 
@@ -67,7 +70,8 @@ let massiv=[5,12,8,20,3,15];
 let eded=10;
 kicikSay(eded,massiv);
 
-4
+
+
 function edediYoxla(eded) {
     let bolenlerinCemi=0;
 
@@ -85,10 +89,13 @@ function edediYoxla(eded) {
 }
 let test =12;
 let test1=13;
+
 edediYoxla(test)
 edediYoxla(test1)
 
-5
+
+
+
 function kvadratlarYukselt(massiv) {
     let kvadratlarMassivi=[];
 

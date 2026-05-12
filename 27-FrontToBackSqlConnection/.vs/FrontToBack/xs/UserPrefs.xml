@@ -2,13 +2,13 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.FrontToBack PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shop/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/AppDbContext.cs">
     <Files>
       <File FileName="Controllers/HomeController.cs" />
       <File FileName="Views/Home/Index.cshtml" />
       <File FileName="Program.cs" />
-      <File FileName="Data/AppDbContext.cs" />
-      <File FileName="appsettings.json" />
+      <File FileName="Data/AppDbContext.cs" Line="16" Column="2" />
+      <File FileName="appsettings.json" Line="9" Column="30" />
       <File FileName="Controllers/ShopController.cs" />
       <File FileName="Models/Category.cs" />
       <File FileName="Models/Product.cs" />
@@ -21,13 +21,14 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FrontToBack" expanded="True">
+          <Node name="FrontToBack">
             <Node name="FrontToBack">
               <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="AppDbContext.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
-                <Node name="Shop" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+                <Node name="Shop" expanded="True" />
               </Node>
             </Node>
           </Node>

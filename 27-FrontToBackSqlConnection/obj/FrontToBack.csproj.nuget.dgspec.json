@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/huseyn/Projects/FrontToBack/FrontToBack.csproj": {}
+    "/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/FrontToBack.csproj": {}
   },
   "projects": {
-    "/Users/huseyn/Projects/FrontToBack/FrontToBack.csproj": {
+    "/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/FrontToBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/huseyn/Projects/FrontToBack/FrontToBack.csproj",
+        "projectUniqueName": "/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/FrontToBack.csproj",
         "projectName": "FrontToBack",
-        "projectPath": "/Users/huseyn/Projects/FrontToBack/FrontToBack.csproj",
+        "projectPath": "/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/FrontToBack.csproj",
         "packagesPath": "/Users/huseyn/.nuget/packages/",
-        "outputPath": "/Users/huseyn/Projects/FrontToBack/obj/",
+        "outputPath": "/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/huseyn/.nuget/NuGet/NuGet.Config"
@@ -21,7 +21,6 @@
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
-          "/usr/local/share/dotnet/sdk/7.0.317/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,7 +33,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -76,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.317/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

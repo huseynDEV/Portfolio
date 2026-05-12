@@ -9,25 +9,25 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FrontToBack
 build_property.RootNamespace = FrontToBack
-build_property.ProjectDir = /Users/huseyn/Projects/FrontToBack/
+build_property.ProjectDir = /Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/huseyn/Projects/FrontToBack
+build_property.MSBuildProjectDirectory = /Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/huseyn/Projects/FrontToBack/Views/Home/Index.cshtml]
+[/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/huseyn/Projects/FrontToBack/Views/Shop/Index.cshtml]
+[/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/Views/Shop/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/huseyn/Projects/FrontToBack/Views/_ViewStart.cshtml]
+[/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/huseyn/Projects/FrontToBack/Views/Shared/_Layout.cshtml]
+[/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3tn0jhruj8

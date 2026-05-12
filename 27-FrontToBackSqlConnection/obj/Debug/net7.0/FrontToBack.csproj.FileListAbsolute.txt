@@ -76,3 +76,16 @@
 /Users/huseyn/Projects/FrontToBack/obj/Debug/net7.0/staticwebassets.build.endpoints.json
 /Users/huseyn/Projects/FrontToBack/obj/Debug/net7.0/swae.build.ex.cache
 /Users/huseyn/Projects/FrontToBack/obj/Debug/net7.0/FrontToB.60583B79.Up2Date
+/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/Debug/net7.0/FrontToBack.csproj.AssemblyReference.cache
+/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/Debug/net7.0/rpswa.dswa.cache.json
+/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/Debug/net7.0/FrontToBack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/Debug/net7.0/FrontToBack.AssemblyInfoInputs.cache
+/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/Debug/net7.0/FrontToBack.AssemblyInfo.cs
+/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/Debug/net7.0/FrontToBack.csproj.CoreCompileInputs.cache
+/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/Debug/net7.0/FrontToBack.MvcApplicationPartsAssemblyInfo.cache
+/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/Debug/net7.0/FrontToBack.RazorAssemblyInfo.cache
+/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/Debug/net7.0/FrontToBack.RazorAssemblyInfo.cs
+/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/Debug/net7.0/FrontToBack.sourcelink.json
+/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/Debug/net7.0/FrontToBack.dll
+/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/Debug/net7.0/refint/FrontToBack.dll
+/Users/huseyn/Desktop/Portfolio/27-FrontToBackSqlConnection/obj/Debug/net7.0/FrontToBack.pdb

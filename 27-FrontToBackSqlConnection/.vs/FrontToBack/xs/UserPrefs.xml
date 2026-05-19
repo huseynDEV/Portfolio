@@ -1,36 +1,21 @@
 ﻿<Properties StartupConfiguration="{8941D85D-B00C-4C36-95C1-9183342251E7}|https">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.FrontToBack PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/AppDbContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
     <Files>
-      <File FileName="Controllers/HomeController.cs" />
-      <File FileName="Views/Home/Index.cshtml" />
-      <File FileName="Program.cs" />
-      <File FileName="Data/AppDbContext.cs" Line="16" Column="2" />
-      <File FileName="appsettings.json" Line="9" Column="30" />
-      <File FileName="Controllers/ShopController.cs" />
-      <File FileName="Models/Category.cs" />
-      <File FileName="Models/Product.cs" />
-      <File FileName="Models/ProductImage.cs" />
-      <File FileName="Properties/launchSettings.json" />
-      <File FileName="ViewModels/HomeVM.cs" />
-      <File FileName="Views/Shared/_Layout.cshtml" />
-      <File FileName="Views/Shop/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Admin/Controllers/CategoryController.cs" Line="1" Column="1" />
+      <File FileName="Areas/Admin/Controllers/DashboardController.cs" Line="1" Column="1" />
+      <File FileName="Areas/Admin/Views/Category/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Admin/Views/Category/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Admin/Views/Category/Detail.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Admin/Views/Dashboard/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Areas/Admin/Views/shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FrontToBack">
-            <Node name="FrontToBack">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True">
-                <Node name="AppDbContext.cs" selected="True" />
-              </Node>
-              <Node name="Views" expanded="True">
-                <Node name="Shop" expanded="True" />
-              </Node>
-            </Node>
+            <Node name="FrontToBack" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -40,4 +25,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FrontToBack PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

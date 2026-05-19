@@ -1,13 +1,14 @@
 ﻿using System;
 using FrontToBack.Data;
 using FrontToBack.Models;
+using FrontToBack.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace FrontToBack.Controllers
 {
-	public class ShopController:Controller
-	{
+    public class ShopController : Controller
+    {
 
         public readonly AppDbContext _context;
         public ShopController(AppDbContext context)
@@ -55,5 +56,6 @@ namespace FrontToBack.Controllers
 
             return View(detailVM);
         }
+    }
 }
 

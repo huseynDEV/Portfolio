@@ -22,6 +22,9 @@
     <None Remove="Areas\Admin\Views\Category\" />
     <None Remove="Areas\Admin\Views\Dashboard\" />
     <None Remove="Areas\Admin\Views\shared\" />
+    <None Remove="Utilities\" />
+    <None Remove="Utilities\Enums\" />
+    <None Remove="Utilities\Extension\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -39,6 +42,9 @@
     <Folder Include="Areas\Admin\Views\Category\" />
     <Folder Include="Areas\Admin\Views\Dashboard\" />
     <Folder Include="Areas\Admin\Views\shared\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="Utilities\Enums\" />
+    <Folder Include="Utilities\Extension\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\" />
